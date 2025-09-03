@@ -131,7 +131,7 @@ export default function Portfolio() {
                 asChild
               >
                 <a
-                  href="/cv/Shahin-Ahmed-FlowCV-Resume-20250903.pdf"
+                  href="/cv/Shahin_Ahmed_Resume.pdf"
                   download="Shahin_Ahmed_Resume.pdf"
                   aria-label="Download Shahin Ahmed's CV"
                   onClick={() =>
@@ -190,7 +190,7 @@ export default function Portfolio() {
                   asChild
                 >
                   <a
-                    href="/cv/Shahin-Ahmed-FlowCV-Resume-20250903.pdf"
+                    href="/cv/Shahin_Ahmed_Resume.pdf"
                     download="Shahin_Ahmed_Resume_Dev.pdf"
                     aria-label="Download Shahin Ahmed's CV"
                     onClick={() =>
