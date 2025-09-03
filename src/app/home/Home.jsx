@@ -131,8 +131,8 @@ export default function Portfolio() {
                 asChild
               >
                 <a
-                  href="/cv/Shahin_Ahmed_Resume_Dev.pdf"
-                  download="Shahin_Ahmed_Resume_Dev.pdf"
+                  href="/cv/Shahin-Ahmed-FlowCV-Resume-20250903.pdf"
+                  download="Shahin_Ahmed_Resume.pdf"
                   aria-label="Download Shahin Ahmed's CV"
                   onClick={() =>
                     gtag("event", "download_cv", {
@@ -190,7 +190,7 @@ export default function Portfolio() {
                   asChild
                 >
                   <a
-                    href="/cv/Shahin_Ahmed_Resume_Dev.pdf"
+                    href="/cv/Shahin-Ahmed-FlowCV-Resume-20250903.pdf"
                     download="Shahin_Ahmed_Resume_Dev.pdf"
                     aria-label="Download Shahin Ahmed's CV"
                     onClick={() =>
@@ -228,7 +228,7 @@ export default function Portfolio() {
                   asChild
                 >
                   <a
-                    href="https://www.linkedin.com/in/shahin-ahmed-46546b380/"
+                    href="https://www.linkedin.com/in/shahin-ahmed71/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -297,7 +297,6 @@ export default function Portfolio() {
           </div>
         </div>
       </section>
-
 
       <section id="skills" className="py-20 px-4 bg-indigo-50">
         <div className="container mx-auto">
@@ -388,14 +387,12 @@ export default function Portfolio() {
         </div>
       </section>
 
-
       <section id="contact" className="py-20 px-4 bg-indigo-50">
         <div className="container mx-auto">
           <h3 className="text-3xl font-bold text-center mb-12 text-indigo-700">
             Let's Connect
           </h3>
           <div className="grid lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
-        
             <div className="space-y-8">
               <div>
                 <h4 className="text-2xl font-semibold mb-4 text-slate-800">
@@ -435,7 +432,9 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <p className="font-medium text-slate-800">Location</p>
-                    <p className="text-gray-600">Available for remote work</p>
+                    <p className="text-gray-600">
+                      Bashundhara R/A, Dhaka, Bangladesh
+                    </p>
                   </div>
                 </div>
               </div>
@@ -472,7 +471,6 @@ export default function Portfolio() {
               </div>
             </div>
 
-          
             <Card className="bg-white border-gray-200">
               <CardHeader>
                 <CardTitle className="text-slate-800">
@@ -566,7 +564,6 @@ export default function Portfolio() {
         </div>
       </section>
 
-   
       <footer className="py-8 px-4 border-t border-gray-200 bg-gray-50">
         <div className="container mx-auto text-center">
           <p className="text-gray-600">
